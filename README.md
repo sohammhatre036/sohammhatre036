@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Soham Mhatre  
 
- **Data Analyst | Big Data Enthusiast **
+ **Data Analyst | Big Data Enthusiast**
 
 I’m an enthusiastic data analyst with a strong foundation in **big data technologies**, **statistical analysis**, and **data visualization**.  
 Currently pursuing an **MSc in Big Data Analytics**, I’m passionate about transforming raw data into meaningful insights that drive impactful business decisions.  
