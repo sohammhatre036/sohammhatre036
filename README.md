@@ -1,69 +1,73 @@
-# Hi there 👋
-I am Soham Mhatre, an enthusiastic data analyst with a strong foundation in big data technologies, statistical analysis, and data visualization. I am currently pursuing an MSc in Big Data Analytics and have hands-on experience with Python, SQL, and cloud platforms like Azure. I am adept at applying data-driven approaches to solve business challenges.
+# 👋 Hey, I'm Soham Mhatre  
 
-🛠️ Skills
+ **Data Analyst | Big Data Enthusiast **
 
-Languages: Python, SQL, R, PySpark, Spark SQL 
+I’m an enthusiastic data analyst with a strong foundation in **big data technologies**, **statistical analysis**, and **data visualization**.  
+Currently pursuing an **MSc in Big Data Analytics**, I’m passionate about transforming raw data into meaningful insights that drive impactful business decisions.  
 
+I enjoy exploring datasets, building predictive models, and designing dashboards that tell powerful data stories.
 
-Data Visualization: Power BI, Tableau, Excel 
+---
 
+## Skills & Tools  
 
-Databases & Big Data: PostgreSQL, MongoDB, Hadoop Ecosystem, Big Data 
+**Languages:**  
+`Python` · `SQL` · `R` · `PySpark` · `Spark SQL`  
 
+**Visualization:**  
+`Power BI` · `Tableau` · `Excel`  
 
+**Databases & Big Data:**  
+`PostgreSQL` · `MongoDB` · `Hadoop Ecosystem`  
 
-Cloud Platforms: AWS, Azure 
+**Cloud Platforms:**  
+`AWS` · `Azure`  
 
+**AI / ML:**  
+`Deep Learning` · `Machine Learning`  
 
-AI / ML: Deep Learning, AI/ML 
+**Other:**  
+`Data Analysis` · `Data Modeling` · `DAX` · `Git`  
 
+---
 
-Other: Data Analysis, Data Modeling, DAX, Git 
+##  Projects  
 
-🚀 Projects
-Here are a few projects I have worked on:
+### 🍱 Food Classification – Deep Learning Project  
+- Built and trained deep learning models like **ResNet18** using **PyTorch** for food image classification.  
+- Deployed the trained model as an interactive **Streamlit web app** for real-time predictions.  
+**Tools:** Python, PyTorch, Streamlit  
 
-Food Classification Deep Learning Project
+---
 
-Learned to implement and train deep learning models like ResNet18 using PyTorch.
+### 🍕 Pizza Sales Analysis  
+- Designed a **PostgreSQL** database schema to analyze pizza sales data.  
+- Used SQL queries to identify top-selling pizzas and monthly sales performance.  
+**Tools:** PostgreSQL  
 
-Deployed the trained model as an interactive web application using Streamlit for real-time classification.
+---
 
-Tools: Python, PyTorch, Streamlit 
+### 🎬 Netflix Content Analysis  
+- Conducted Netflix dataset analysis using **Power BI** and **Excel**.  
+- Built dashboards to visualize content trends, audience engagement, and genre preferences.  
+**Tools:** Power BI, Excel  
 
-Pizza Sales Analysis
+---
 
-Used PostgreSQL to model and analyze pizza sales data.
+##  Certifications  
 
-Designed a relational database schema and used SQL queries to identify popular pizzas and track sales trends.
+- **Machine Learning Specialization** – Coursera  
+- **Big Data Computing** – NPTEL  
+- **SQL and Relational Databases** – Cognitive Classes  
+- **Data Visualization with Power BI** – Great Learning  
 
-Tools: PostgreSQL 
+---
 
-Netflix Content Analysis
+## 🔗 Connect With Me  
 
-Conducted an analysis of user behavior on Netflix using Power BI.
+🌐 **Portfolio:** [sohammhatre.com](https://sohammhatre.netlify.app)  
+💼 **LinkedIn:** [linkedin.com/in/soham-mhatre](https://www.linkedin.com/in/soham-mhatre-03618cs/)  
 
-Uncovered patterns and insights for content creation and platform optimization.
+---
 
-Tools: Power BI, Excel 
-
-🔗 Let's Connect
-
-LinkedIn: linkedin.com/in/Soham-Mhatre 
-
-
-Portfolio: sohammhatre.com 
-
-📜 Certifications
-
-Machine Learning Specialization (Coursera) 
-
-
-Big Data Computing (NPTEL) 
-
-
-SQL and Relational Databases (Cognitive Classes) 
-
-
-Data Visualization with Power BI (Great Learning)
+> 💡 *“Data is the new oil — I refine it into insights.”*
