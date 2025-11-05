@@ -7,6 +7,9 @@ Currently pursuing an **MSc in Big Data Analytics**, I’m passionate about tran
 
 I enjoy exploring datasets, building predictive models, and designing dashboards that tell powerful data stories.
 
+<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/e4faa88a-5012-4261-bbe2-7ff5224247b6" />
+
+
 ---
 
 ## Skills & Tools  
